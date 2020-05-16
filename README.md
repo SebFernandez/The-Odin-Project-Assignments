@@ -1,4 +1,6 @@
-# [The Odin Project](https://www.theodinproject.com/home) Assignments :octocat:
+# The Odin Project Assignments :octocat:
+
+Here is all my work I've done by learning through [The Odin Project](https://www.theodinproject.com/home).
 
 - [Google Homepage](https://github.com/SebFernandez/Google-Homepage)
 - [Rock paper scissors](https://github.com/SebFernandez/Rock-paper-scissors)
